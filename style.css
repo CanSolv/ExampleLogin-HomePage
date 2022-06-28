@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg");
+  }
+
+  .boxed {
+    font-size: 25px;
+    display: block;
+    margin: auto;
+  }
+  
+  .form {
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 150px;
+    border-style: outset;
+    z-index: 1;
+    background-color: #d6d6d6;
+  }
+  
+  .text {
+    font-family: 'Courier New';
+    font-weight: bold;
+  }
+  
+  #usr {
+    margin-top: 15px;
+  }
+  #pas {
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+  
+  .sub {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: groove;
+    color: black;
+  }

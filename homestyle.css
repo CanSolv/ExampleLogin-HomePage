@@ -1,0 +1,12 @@
+.banner {
+    background-image: url('https://cdnb.artstation.com/p/assets/covers/images/015/309/075/large/carter-pytel-jungletexture.jpg?1547868024') !important;
+}
+  
+h1 {
+    color: rgb(161, 46, 46);
+  }
+  
+.nav {
+    display: inline-block;
+    border-style: double;
+  }
