@@ -1,11 +1,11 @@
-
+.heading {
+  width: 100%;
+  margin: auto;
+}
 
 .banner {
   background-image: url('https://cdnb.artstation.com/p/assets/covers/images/015/309/075/large/carter-pytel-jungletexture.jpg?1547868024') !important;
-  display: inline-block;
-  block-size: auto;
-  width: 100%;
-  margin: auto;
+  block-size: 80px;
 }
 
 body {
@@ -17,20 +17,25 @@ body {
   
 h1.heading {
   color: rgb(255, 255, 255);
-  display: block;
-  block-size: auto;
+  font-size: 40px;
+  position: relative;
+  top: 20px;
   }
-  
+
 
 li {
   color: white;
-  font-size: 20px;
-  margin: 5px;
+  font-size: 30px;
+  margin-left: 50px;
   display: inline-block;
 }
 
-div {
+nav {
   display: block;
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  float: right;
 }
 
 article {
@@ -44,9 +49,8 @@ article {
   line-height: 14px;
   margin-left: 20px;
   padding: 10px;
-  position: relative;
-  right: 20px;
-  top: 590px;
-  height: 100%;
+  position: absolute;
+  bottom: 10px;
+  float: left;
   width: 50%;
 }
