@@ -1,4 +1,7 @@
-
+.text {
+  width: 100%;
+  margin: auto;
+}
 
 .banner {
   background-image: url('https://cdnb.artstation.com/p/assets/covers/images/015/309/075/large/carter-pytel-jungletexture.jpg?1547868024') !important;
@@ -46,7 +49,7 @@ article {
   padding: 10px;
   position: relative;
   right: 20px;
-  top: 590px;
+  top: 640px;
   height: 100%;
   width: 50%;
 }
