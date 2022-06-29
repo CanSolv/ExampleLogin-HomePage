@@ -11,6 +11,7 @@
 body {
   background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b436e3e-b9c2-4b01-b533-c3f06e77fb2e/despl8s-94593656-6bd5-49f3-9669-ea542e4f6929.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZiNDM2ZTNlLWI5YzItNGIwMS1iNTMzLWMzZjA2ZTc3ZmIyZVwvZGVzcGw4cy05NDU5MzY1Ni02YmQ1LTQ5ZjMtOTY2OS1lYTU0MmU0ZjY5MjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2fxBWH3Zbnm28hrNgnpTJ5fPmm_Tq8uZFtnikUS67wA');
   background-size: cover;
+  background-repeat: no-repeat;
   margin: auto;
   width: 100%;
 }
@@ -47,10 +48,9 @@ article {
   font-size: 18px;
   font-style: italic;
   line-height: 14px;
-  margin-left: 20px;
   padding: 10px;
   position: absolute;
-  bottom: 10px;
+  bottom: 20px;
   float: left;
   width: 50%;
 }
