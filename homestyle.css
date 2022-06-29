@@ -5,10 +5,7 @@
 
 .banner {
   background-image: url('https://cdnb.artstation.com/p/assets/covers/images/015/309/075/large/carter-pytel-jungletexture.jpg?1547868024') !important;
-  display: inline-block;
   block-size: auto;
-  width: 100%;
-  margin: auto;
 }
 
 body {
@@ -20,8 +17,6 @@ body {
   
 h1.heading {
   color: rgb(255, 255, 255);
-  display: block;
-  block-size: auto;
   font-size: 40px;
   position: relative;
   top: 20px;
@@ -35,7 +30,7 @@ li {
   display: inline-block;
 }
 
-div {
+nav {
   display: block;
   position: relative;
   left: 1000px;
